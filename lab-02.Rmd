@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: Ryan Clarey, Junde Li, Mudro Pate and Andrew Wright"
+author: "R-studious: Ryan Clarey, Junde Li, Mudro Pate and Andrew Wright"
 date: "`r Sys.Date()`"
 output: html_document
 ---
